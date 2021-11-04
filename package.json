@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "prompt": "^1.2.0",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  }
+}
